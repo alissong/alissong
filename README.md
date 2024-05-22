@@ -1,10 +1,10 @@
  # 💻 Alisson Souza
 
 ### 🤓 Sobre Mim
-Oi! Sou um nerd apaixonado por tecnologia, games, RPGs e música. Com mais de 10 anos de experiência na área de tecnologia, agora estou inserido de cabeça no mundo DevOps e aprimorando minhas habilidades como desenvolvedor.
+Oi! Sou um nerd apaixonado por tecnologia, games, RPGs e música. Com mais de 10 anos de experiência na área de tecnologia. Atualmente estou inserido de cabeça no mundo DevOps e aprimorando minhas habilidades como desenvolvedor.
 
 ### 📘 Experiência
-Minha jornada na tecnologia me deu uma sólida bagagem em infraestrutura. Adoro automatizar processos e buscar novas soluções para problemas complexos. Agora, como entusiasta DevOps, estou focado em integração contínua, entrega contínua e otimização de sistemas.
+Minha jornada na tecnologia me deu uma sólida bagagem em infraestrutura. Adoro automatizar processos e buscar novas soluções para problemas complexos. Como entusiasta das práticas DevOps, estou focado em integração contínua, entrega contínua e otimização de sistemas.
 
 ### 🔧 Hard Skills
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
